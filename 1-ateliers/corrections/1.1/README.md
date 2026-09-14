@@ -12,11 +12,11 @@ Dans cet exemple, le dossier courant est *1-ateliers* donc
 
 <!-- AUTO-GENERATED -->
 
-### 1-ateliers/corrections/1.1/
+### 1-ateliers/corrections/1.1
 
 #### `1-ateliers/corrections/1.1/index.mjs`
 
-```
+```javascript
 import { stdin as input, stdout as output } from 'node:process'
 import { createInterface } from 'readline/promises'
 
