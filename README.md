@@ -12,7 +12,7 @@
 
 ## Demos
 
-- [Dossiers des demos](./0-demos/)
+- [Dossiers des demos](./3-demos/)
 
 ---
 
