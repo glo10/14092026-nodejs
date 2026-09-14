@@ -1,0 +1,36 @@
+{
+  "name": "node-16032026",
+  "version": "1.0.0",
+  "description": "Node session",
+  "main": "index.js",
+  "scripts": {
+    "11": "node --watch 0-ateliers/corrections/1.1/Index.mjs",
+    "31": "node --watch 0-ateliers/corrections/3.1/",
+    "32": "node --watch 0-ateliers/corrections/3.2/",
+    "41": "node --watch 0-ateliers/corrections/4.1/",
+    "42": "node --watch 0-ateliers/corrections/4.2/",
+    "51": "node --watch 0-ateliers/corrections/5.1",
+    "52": "node --watch 0-ateliers/corrections/5.2",
+    "53": "node --watch 0-ateliers/corrections/5.3",
+    "54": "node --watch 0-ateliers/corrections/5.4",
+    "55": "node --watch 0-ateliers/corrections/5.5",
+    "61": "node --watch 0-ateliers/corrections/6.1",
+    "71": "node --watch 0-ateliers/corrections/7.1",
+    "81": "node --watch 0-ateliers/corrections/8.1",
+    "82": "node --watch 0-ateliers/corrections/8.2",
+    "83": "node --watch 0-ateliers/corrections/8.3",
+    "test": "vitest",
+    "e2e": "cypress open",
+    "42b": "node --watch 0-ateliers/corrections/4.2-bonus/"
+  },
+  "author": "Glodie Tshimini",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "cypress": "^16.0.0",
+    "eslint": "^10.10.0",
+    "globals": "^17.12.0",
+    "supertest": "^7.2.2",
+    "vitest": "^5.0.0"
+  }
+}
