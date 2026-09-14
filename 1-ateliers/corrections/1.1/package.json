@@ -1,0 +1,14 @@
+{
+  "name": "1.1",
+  "version": "1.0.0",
+  "description": "Correction atelier 1.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs",
+    "dev": "node --watch index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
