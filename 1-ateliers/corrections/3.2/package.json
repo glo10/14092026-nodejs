@@ -1,0 +1,24 @@
+{
+  "name": "3.2",
+  "version": "1.0.0",
+  "description": "Workshop Web HTTPS server with HTML",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "npm i & npm update & node src/app.js",
+    "bonus": "npm i & npm update & node src/app-bonus.js",
+    "dev": "npm i & npm update & node --watch src/app.js",
+    "bonus:dev": "npm i & npm update & node --watch src/app-bonus.js",
+    "start:all": "concurrently -n server,bonus -c blue,green \"npm run start\" \"npm run bonus\"",
+    "dev:all": "concurrently -n server,bonus -c blue,green \"npm run dev\" \"npm run bonus:dev\""
+  },
+  "keywords": [],
+  "author": "Glodie Tshimini",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "concurrently": "^10.0.5",
+    "eslint": "^10.10.0",
+    "globals": "^17.12.0"
+  }
+}
