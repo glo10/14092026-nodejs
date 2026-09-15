@@ -1,0 +1,566 @@
+{
+	"rss": {
+		"channel": {
+			"title": "International : Toute l’actualité sur Le Monde.fr.",
+			"description": "International  - Découvrez gratuitement tous les articles, les vidéos et les infographies de la rubrique International sur Le Monde.fr.",
+			"copyright": "Le Monde - L’utilisation des flux RSS du Monde.fr est réservée à un usage strictement personnel, non professionnel et non collectif. Toute autre exploitation doit faire l’objet d’une autorisation et donner lieu au versement d’une rémunération. Contact : syndication@lemonde.fr",
+			"link": [
+				"https://www.lemonde.fr/international/rss_full.xml",
+				{
+					"_href": "https://www.lemonde.fr/international/rss_full.xml",
+					"_rel": "self",
+					"_type": "application/rss+xml",
+					"__prefix": "atom"
+				}
+			],
+			"pubDate": "Tue, 17 Mar 2026 06:06:19 +0000",
+			"language": "fr",
+			"item": [
+				{
+					"id":1,
+					"title": "EN DIRECT, guerre au Moyen-Orient : Israël dit lancer une « vague de frappes » sur Téhéran et Beyrouth ; plusieurs explosions ont retenti à Dubaï, aux Emirats arabes unis, ainsi qu’à Doha",
+					"pubDate": "Tue, 17 Mar 2026 05:59:33 +0100",
+					"description": "Une attaque a visé, tôt mardi matin, l’ambassade américaine à Badgad, après une attaque similaire menée quelques heures plus tôt. « Au moins un drone est tombé dans l’ambassade », a rapporté un responsable de sécurité.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/live/2026/03/17/en-direct-guerre-au-moyen-orient-israel-dit-lancer-une-vague-de-frappes-sur-teheran-et-beyrouth-plusieurs-explosions-ont-retenti-a-dubai-aux-emirats-arabes-unis-ainsi-qu-a-doha_6671147_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/live/2026/03/17/en-direct-guerre-au-moyen-orient-israel-dit-lancer-une-vague-de-frappes-sur-teheran-et-beyrouth-plusieurs-explosions-ont-retenti-a-dubai-aux-emirats-arabes-unis-ainsi-qu-a-doha_6671147_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "A l’aéroport international de Dubaï, tandis que de la fumée s’élève en arrière-plan après qu’un drone a percuté un réservoir de carburant, entraînant la suspension temporaire des vols, à Dubaï (Emirats arabes unis), le 16 mars 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "AP"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/16/767/0/6000/3000/644/322/60/0/be3e601_ftp-1-9nztoebz8u91-2eac105cce5e453d80004c4baec64a95-0-23336f9e494a453ead052f02cc6277a6.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":2,
+					"title": "Dissuasion nucléaire : la France opère-t-elle un changement de doctrine ?",
+					"pubDate": "Tue, 17 Mar 2026 05:30:11 +0100",
+					"description": "Emmanuel Macron a prononcé un discours très remarqué à l’occasion de sa visite à la base navale de l’île Longue, à Brest, le 2 mars. Il y a réaffirmé la puissance nucléaire de la France, tout en tendant la main à l’Europe. Un changement de doctrine en matière de dissuasion nucléaire ? Réponse dans ce podcast avec Elise Vincent et Chloé Hoorman, journalistes au « Monde » et spécialistes des sujets de défense.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/podcasts/article/2026/03/17/dissuasion-nucleaire-la-france-opere-t-elle-un-changement-de-doctrine_6671594_5463015.html"
+					},
+					"link": "https://www.lemonde.fr/podcasts/article/2026/03/17/dissuasion-nucleaire-la-france-opere-t-elle-un-changement-de-doctrine_6671594_5463015.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Emmanuel Macron lors de son discours devant « Le Téméraire », un sous-marin nucléaire lanceur d’engins, sur la base opérationnelle de l’Île Longue, à Brest (Finistère), le 2 mars 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "KAMIL ZIHNIOGLU POUR « LE MONDE »"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/12/0/0/1800/900/644/322/60/0/2160794_upload-1-wrldrf4xern8-macron.png",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":3,
+					"title": "Israël annonce des opérations terrestres « ciblées et limitées » au Liban",
+					"pubDate": "Tue, 17 Mar 2026 05:30:10 +0100",
+					"description": "L’Etat hébreu considère que les campagnes militaires précédentes n’ont pas été suffisantes pour démanteler l’infrastructure du Hezbollah dans le sud du pays. Quelque 110 000 réservistes ont été mobilisés et le nombre continue d’augmenter.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/article/2026/03/17/israel-annonce-des-operations-terrestres-ciblees-et-limitees-au-liban_6671593_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/article/2026/03/17/israel-annonce-des-operations-terrestres-ciblees-et-limitees-au-liban_6671593_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "La frontière entre le Liban et Israël, vue depuis le nord de l’Etat hébreu, le 16 mars 2026, avec, au premier plan, des chars israéliens et, au second plan, les maisons détruites d’un village du pays du Cèdre."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "ODD ANDERSEN/AFP"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/16/500/0/6000/3000/644/322/60/0/cc4f55d_ftp-1-yuoduhtjskcs-5497311-01-06.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":4,
+					"title": "Mark Carney, un équilibriste au pouvoir au Canada",
+					"pubDate": "Tue, 17 Mar 2026 05:15:27 +0100",
+					"description": "Un an après sa nomination au poste de premier ministre à Ottawa, le 14 mars 2025, l’ex-banquier pragmatique a séduit le monde par son discours à Davos sur l’autonomie des puissances moyennes face aux géants hégémoniques, mais le socle politique de ce funambule reste délicat à définir.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/article/2026/03/17/mark-carney-un-equilibriste-au-pouvoir-au-canada_6671591_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/article/2026/03/17/mark-carney-un-equilibriste-au-pouvoir-au-canada_6671591_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Le premier ministre canadien, Mark Carney, au Parlement, à Ottawa, le 21 octobre 2025."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "Spencer Colby/The Canadian Press via ZUMA-REA"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/16/610/0/6937/3468/644/322/60/0/9f32f59_upload-1-fj8llok93h2d-rea11473980.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":5,
+					"title": "Face à la flambée des prix de l’énergie, le désarroi et les désaccords des Européens",
+					"pubDate": "Tue, 17 Mar 2026 05:00:26 +0100",
+					"description": "Le sujet sera à l’ordre du jour de la réunion des chefs d’Etat et de gouvernement, jeudi 19 mars. Plusieurs pays poussent à revenir – au moins partiellement – sur les principes actuels de la politique énergétique des Vingt-Sept : pas de recours au pétrole russe et objectif de neutralité carbone en 2050.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/economie/article/2026/03/17/face-a-la-flambee-des-prix-de-l-energie-le-desarroi-et-les-desaccords-des-europeens_6671586_3234.html"
+					},
+					"link": "https://www.lemonde.fr/economie/article/2026/03/17/face-a-la-flambee-des-prix-de-l-energie-le-desarroi-et-les-desaccords-des-europeens_6671586_3234.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Une station-service Shell à Cologne (Allemagne), le 16 mars 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "Thilo Schmuelgen/REUTERS"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/16/565/0/5500/2750/644/322/60/0/59cca41_ftp-1-hk80a3y4ygyx-2026-03-16t142853z-220674421-rc2o5kaab8gb-rtrmadp-3-iran-crisis-germany-fuel.JPG",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":6,
+					"title": "Quelle est l’histoire de la Saint-Patrick, des visions mystiques irlandaises à la fête de la bière ?",
+					"pubDate": "Tue, 17 Mar 2026 04:45:22 +0100",
+					"description": "Entre histoire, spiritualité et légendes, la figure de saint Patrick, devenue un élément-clé d’une identité irlandaise tourmentée, raconte la lente christianisation d’une île qui n’a jamais renoncé à ses traditions.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/le-monde-des-religions/article/2026/03/17/quelle-est-l-histoire-de-la-saint-patrick-des-visions-mystiques-irlandaises-a-la-fete-de-la-biere_6582299_6038515.html"
+					},
+					"link": "https://www.lemonde.fr/le-monde-des-religions/article/2026/03/17/quelle-est-l-histoire-de-la-saint-patrick-des-visions-mystiques-irlandaises-a-la-fete-de-la-biere_6582299_6038515.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Lors du défilé de la Saint-Patrick, à Montréal, le 16 mars 2025."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "ANDREJ IVANOV / AFP"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2025/03/16/464/0/5568/2784/644/322/60/0/e3e7b09_ftp-import-images-1-qim95ypgl7kr-5338782-01-06.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":7,
+					"title": "Donald Trump entre exaspération et fébrilité face à l’enjeu de la fermeture du détroit d’Ormuz",
+					"pubDate": "Tue, 17 Mar 2026 04:30:03 +0100",
+					"description": "Le président américain a reproché aux alliés leur manque d’entrain après leur avoir proposé une opération visant à rétablir la liberté de circulation pour les pétroliers bloqués dans le golfe Persique.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/article/2026/03/17/donald-trump-entre-exasperation-et-febrilite-face-a-l-enjeu-de-la-fermeture-du-detroit-d-ormuz_6671580_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/article/2026/03/17/donald-trump-entre-exasperation-et-febrilite-face-a-l-enjeu-de-la-fermeture-du-detroit-d-ormuz_6671580_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Le président américain, Donald Trump, à la Maison Blanche, à Washington, le 16 mars 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "Alex Brandon/AP"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/16/175/0/3608/1804/644/322/60/0/1eb0647_ftp-1-ho78vtdfy91a-a7ca6b729b8d40eaa03f6e7b6ce60679-0-1e24027a5ca74e81892b20f279cde29d.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":8,
+					"title": "Le Brésil place la lutte contre la déforestation au cœur de son nouveau plan sur le climat",
+					"pubDate": "Tue, 17 Mar 2026 03:46:39 +0100",
+					"updated": "Tue, 17 Mar 2026 04:21:02 +0100",
+					"description": "Le gouvernement du président Lula mise sur la protection de l’Amazonie pour réduire ses émissions de gaz à effet de serre et atteindre la neutralité carbone dans les décennies à venir.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/article/2026/03/17/le-bresil-place-la-lutte-contre-la-deforestation-au-c-ur-de-son-nouveau-plan-sur-le-climat_6671547_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/article/2026/03/17/le-bresil-place-la-lutte-contre-la-deforestation-au-c-ur-de-son-nouveau-plan-sur-le-climat_6671547_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Vue aérienne montrant une zone déboisée de la forêt amazonienne, préparée pour la plantation, aux environs de Belem, dans l’Etat du Para (Brésil), le 12 novembre 2025, durant la COP30."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "MAURO PIMENTEL/AFP"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/17/688/0/8256/4128/644/322/60/0/afa6a13_ftp-1-jhqs5ocaddab-5502537-01-06.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":9,
+					"title": "Détroit d’Ormuz : les Européens refusent d’être entraînés par Trump dans sa guerre contre l’Iran",
+					"pubDate": "Tue, 17 Mar 2026 03:30:04 +0100",
+					"updated": "Tue, 17 Mar 2026 06:56:58 +0100",
+					"description": "Le président américain, Donald Trump, exige que ses alliés l’aident à débloquer le passage pour les pétroliers du Golfe. La France entend bien mener une coalition internationale pour libérer la navigation, mais une fois les hostilités terminées.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/article/2026/03/17/detroit-d-ormuz-les-europeens-refusent-d-etre-entraines-dans-la-guerre-americano-israelienne-contre-l-iran_6671546_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/article/2026/03/17/detroit-d-ormuz-les-europeens-refusent-d-etre-entraines-dans-la-guerre-americano-israelienne-contre-l-iran_6671546_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Kaja Kallas, haute représentante de l’UE pour les affaires étrangères et la politique de sécurité, après une réunion des ministres européens de l’énergie et des affaires étrangères, à Bruxelles, le 16 mars 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "Omar Havana/REUTERS"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/16/438/0/5261/2630/644/322/60/0/7aa6f64_ftp-1-s1mttxglcc4n-2026-03-16t164924z-1372159258-rc2s5kazajkd-rtrmadp-3-iran-crisis-eu.JPG",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":10,
+					"title": "En Chine, des officiels s’improvisent streameurs",
+					"pubDate": "Tue, 17 Mar 2026 03:00:11 +0100",
+					"description": "Certains jeunes fonctionnaires se lancent sur Douyin, la version chinoise originale de TikTok, pour soutenir l’économie, promouvoir le patrimoine ou expliquer leur travail à l’Assemblée nationale populaire.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/article/2026/03/17/en-chine-des-officiels-s-improvisent-streameurs_6671545_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/article/2026/03/17/en-chine-des-officiels-s-improvisent-streameurs_6671545_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Lin Yangduo, sur une capture d’écran d’une vidéo qu’il a publiée sur ses réseaux sociaux."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "Lin Yangduo/Douyin"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/16/52/0/1005/502/644/322/60/0/99b3a17_upload-1-zkvdfzhsaatj-0-1-1762601417-9942-1762602515.jpeg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":11,
+					"title": "Au Nigeria, la ville de Maiduguri frappée par une série d’attentats",
+					"pubDate": "Tue, 17 Mar 2026 01:27:15 +0100",
+					"updated": "Tue, 17 Mar 2026 02:38:37 +0100",
+					"description": "Boko Haram et d’autres groupes djihadistes ont intensifié leurs attaques autour de cette ville stratégique du nord-est du pays, qui n’avait pas connu de telles violences depuis des années.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/afrique/article/2026/03/17/nigeria-la-ville-de-maiduguri-frappee-par-une-serie-d-attentats_6671479_3212.html"
+					},
+					"link": "https://www.lemonde.fr/afrique/article/2026/03/17/nigeria-la-ville-de-maiduguri-frappee-par-une-serie-d-attentats_6671479_3212.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Devant l’hôpital de Maiduguri après des explosions dans la ville nigériane, le 16 mars 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "AFP"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/16/333/0/4000/2000/644/322/60/0/afa68f3_ftp-1-99igwbsoumuj-5501225-01-06.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":12,
+					"title": "Le Chili lance la construction de barrières à la frontière avec le Pérou pour freiner l’immigration irrégulière",
+					"pubDate": "Tue, 17 Mar 2026 01:00:01 +0100",
+					"updated": "Tue, 17 Mar 2026 02:39:26 +0100",
+					"description": "Le nouveau président, José Antonio Kast, a annoncé, lundi, les travaux de son « bouclier frontalier », une promesse de campagne qui pourrait couvrir jusqu’à 500 kilomètres.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/article/2026/03/17/le-chili-lance-la-construction-de-barrieres-a-la-frontiere-avec-le-perou-pour-freiner-l-immigration-irreguliere_6671478_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/article/2026/03/17/le-chili-lance-la-construction-de-barrieres-a-la-frontiere-avec-le-perou-pour-freiner-l-immigration-irreguliere_6671478_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Le président chilien, José Antonio Kast (au centre), et son ministre des travaux publics, Martin Arrau (à droite), à Arica, à la frontière avec le Pérou, le 16 mars 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "Alexander Infante/REUTERS"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/16/920/0/5520/2760/644/322/60/0/114ce79_ftp-1-dubdhi5cs1ku-2026-03-16t233943z-24671357-rc2v5kaaasqo-rtrmadp-3-chile-politics.JPG",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":13,
+					"title": "Afghanistan : des centaines de civils tués dans des bombardements pakistanais sur Kaboul",
+					"pubDate": "Tue, 17 Mar 2026 00:43:56 +0100",
+					"updated": "Tue, 17 Mar 2026 02:40:21 +0100",
+					"description": "Après les frappes menées par Islamabad dans un lieu public du centre de la capitale, un porte-parole du gouvernement afghan a dit craindre « un lourd bilan » évoquant jusqu’à 400 morts et 250 blessés, laissant les hôpitaux débordés.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/article/2026/03/17/afghanistan-centaines-de-civils-tues-dans-des-bombardements-pakistanais-sur-kaboul_6671477_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/article/2026/03/17/afghanistan-centaines-de-civils-tues-dans-des-bombardements-pakistanais-sur-kaboul_6671477_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Des secouristes afghans et des forces de sécurité talibanes à la recherche de corps dans les décombres d’un bâtiment bombardé par le Pakistan, à Kaboul, le 16 mars 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "WAKIL KOHSAR/AFP"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/16/500/0/6048/3024/644/322/60/0/362d10f_ftp-1-kyr8yb1amgup-5501940-01-06.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":14,
+					"title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky en déplacement au Royaume-Uni mardi, avant de se rendre à Madrid",
+					"pubDate": "Tue, 17 Mar 2026 00:03:20 +0100",
+					"description": "« Nous n’oublierons pas la guerre en Europe, et notre détermination sans faille à soutenir l’Ukraine reste inébranlable », a déclaré le ministre de la défense britannique, John Healey, devant les députés.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/live/2026/03/17/en-direct-guerre-en-ukraine-volodymyr-zelensky-en-deplacement-au-royaume-uni-mardi-avant-de-se-rendre-a-madrid_6671255_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/live/2026/03/17/en-direct-guerre-en-ukraine-volodymyr-zelensky-en-deplacement-au-royaume-uni-mardi-avant-de-se-rendre-a-madrid_6671255_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Volodymyr Zelensky lors de son intervention à Sciences Po, à Paris, le 13 mars 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "ALAIN JOCARD/AFP"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/13/1091/0/7790/3895/644/322/60/0/0c3b0b4_ftp-1-hvoqkr0quyxf-5463150-01-06.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":15,
+					"title": "Vaccins aux Etats-Unis : un juge suspend la refonte des recommandations lancée par l’administration Trump",
+					"pubDate": "Mon, 16 Mar 2026 23:20:04 +0100",
+					"updated": "Tue, 17 Mar 2026 02:41:32 +0100",
+					"description": "Le magistrat fédéral a estimé, lundi, que les services du secrétaire à la santé, Robert Kennedy Jr, ont « fait fi » des méthodes basées sur la science. Un porte-parole du ministère a dit attendre « avec impatience que la décision de ce juge soit annulée ».",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/article/2026/03/16/vaccins-aux-etats-unis-un-juge-suspend-la-refonte-des-recommandations-lancee-par-l-administration-trump_6671476_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/article/2026/03/16/vaccins-aux-etats-unis-un-juge-suspend-la-refonte-des-recommandations-lancee-par-l-administration-trump_6671476_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Robert F. Kennedy Jr, secrétaire à la santé américain, lors du discours de Donald Trump sur l’état de l’Union, au Congrès, à Washington, le 24 février 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "Allison Robbert/AP"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/02/25/0/0/7736/3868/644/322/60/0/7e85791_ftp-1-otft4hqiyn8t-c4a77a9087db4cf69845e6b3c90a6c7f-1-2f470d6f06854b669a92761c17e25250.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":16,
+					"title": "A Jérusalem, un ramadan sous haute restriction",
+					"pubDate": "Mon, 16 Mar 2026 20:30:00 +0100",
+					"updated": "Mon, 16 Mar 2026 20:59:22 +0100",
+					"description": "Depuis le début de la guerre avec l’Iran, le gouvernement israélien interdit l’accès à l’esplanade des Mosquées, lieu saint de l’islam et symbole national palestinien, en invoquant des raisons de sécurité. Réduits à prier devant les murs de la Vieille Ville, les fidèles musulmans dénoncent une mesure politique.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/article/2026/03/16/a-jerusalem-un-ramadan-sous-haute-restriction_6671469_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/article/2026/03/16/a-jerusalem-un-ramadan-sous-haute-restriction_6671469_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "La police patrouille dans le quartier musulman de la Vieille Ville, à Jérusalem, le 12 mars 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "LAURENCE GEAI/MYOP POUR « LE MONDE »"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/15/158/0/5760/2880/644/322/60/0/acb8d03_upload-1-7phy4vl6o7za-lgeai-jerusalem-34.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":17,
+					"title": "Nouvelle offensive de la banque italienne UniCredit pour forcer Commerzbank à l’union",
+					"pubDate": "Mon, 16 Mar 2026 18:32:29 +0100",
+					"updated": "Mon, 16 Mar 2026 18:55:08 +0100",
+					"description": "L’établissement milanais a lancé lundi une offre de rachat dans le but de récupérer plus de 30 % du capital de la banque allemande. Depuis 2024, Andrea Orcel, l’ambitieux patron d’UniCredit, cherche, avec cette alliance germano-italienne, à bâtir un poids lourd européen de la finance.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/economie/article/2026/03/16/nouvelle-offensive-de-la-banque-italienne-unicredit-pour-forcer-commerzbank-a-l-union_6671452_3234.html"
+					},
+					"link": "https://www.lemonde.fr/economie/article/2026/03/16/nouvelle-offensive-de-la-banque-italienne-unicredit-pour-forcer-commerzbank-a-l-union_6671452_3234.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Le siège de Commerzbank, à Francfort (Allemagne), le 16 mars 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "Michael Probst / AP"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/16/713/0/5573/2786/644/322/60/0/bb994ff_ftp-1-vnjyzeyqy12o-51412e9d1a4346bea37ee91f0370df80-0-17d8d6d3837842fb9ebc19c91c266e3b.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":18,
+					"title": "« Si l’Europe n’est pas aujourd’hui capable de créer une véritable société supranationale, elle ne le fera jamais »",
+					"pubDate": "Mon, 16 Mar 2026 18:00:32 +0100",
+					"description": "Sans restriction du périmètre applicable et sans montée en ambition, le « 28ᵉ régime » juridique des sociétés, qui doit être présenté mercredi, ne sera qu’un concept bruxellois de plus, avec un logo et un site Internet, dénoncent les économistes Luis Garicano et Ulrike Malmendier dans une tribune au « Monde ».",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/idees/article/2026/03/16/si-l-europe-n-est-pas-aujourd-hui-capable-de-creer-une-veritable-societe-supranationale-elle-ne-le-fera-jamais_6671449_3232.html"
+					},
+					"link": "https://www.lemonde.fr/idees/article/2026/03/16/si-l-europe-n-est-pas-aujourd-hui-capable-de-creer-une-veritable-societe-supranationale-elle-ne-le-fera-jamais_6671449_3232.html",
+					"content": {
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/74736ce_upload-1-1q1lcx7t5zad-frame-1190.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":19,
+					"title": "Aux Emirats arabes unis, les pêcheurs victimes collatérales de la guerre en Iran",
+					"pubDate": "Mon, 16 Mar 2026 17:53:23 +0100",
+					"updated": "Tue, 17 Mar 2026 00:44:45 +0100",
+					"description": "Depuis le début de la guerre en Iran, les bateaux de pêche restent confinés dans les ports du littoral émirati proche du détroit d’Ormuz. A Dubaï, le secteur est à l’arrêt comme partout ailleurs, et le marché aux poissons voit les prix s’envoler.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/article/2026/03/16/quand-j-ai-quitte-l-egypte-ca-n-allait-pas-bien-la-bas-maintenant-c-est-ici-aux-emirats-arabes-unis-les-pecheurs-victimes-collaterales-de-la-guerre-en-iran_6671442_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/article/2026/03/16/quand-j-ai-quitte-l-egypte-ca-n-allait-pas-bien-la-bas-maintenant-c-est-ici-aux-emirats-arabes-unis-les-pecheurs-victimes-collaterales-de-la-guerre-en-iran_6671442_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Un pêcheur indien sur un bateau de pêche traditionnel (boutre), à Dubaï (Emirats arabes unis), le 9 mars 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "PHILÉMON BARBIER/HORS FORMAT POUR « LE MONDE »"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/16/664/0/5312/2656/644/322/60/0/6b8e198_upload-1-6wo6d2skzfy7-05-pb-lemonde-pecheur-emirats-arabes-unis.jpg",
+						"__prefix": "media"
+					}
+				},
+				{
+					"id":20,
+					"title": "Au Kurdistan irakien, le traumatisme du massacre chimique de Halabja ravivé par la guerre en Iran",
+					"pubDate": "Mon, 16 Mar 2026 17:00:18 +0100",
+					"updated": "Mon, 16 Mar 2026 20:50:12 +0100",
+					"description": "Le 16 mars 1988, le régime de Saddam Hussein attaquait au gaz moutarde et au sarin cette localité kurde soupçonnée de collusion avec Téhéran, provoquant la mort de milliers de personnes. Trente-huit ans plus tard, ce souvenir revient hanter les survivants.",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.lemonde.fr/international/article/2026/03/16/au-kurdistan-irakien-le-traumatisme-du-massacre-chimique-d-halabja-ravive-par-la-guerre-en-iran_6671439_3210.html"
+					},
+					"link": "https://www.lemonde.fr/international/article/2026/03/16/au-kurdistan-irakien-le-traumatisme-du-massacre-chimique-d-halabja-ravive-par-la-guerre-en-iran_6671439_3210.html",
+					"content": {
+						"description": {
+							"_type": "plain",
+							"__prefix": "media",
+							"__text": "Mohammad Saed, 44 ans, dans le cimetière des martyrs du massacre de Halabja (Irak), dont il est un survivant, le 11 mars 2026."
+						},
+						"credit": {
+							"_scheme": "urn:ebu",
+							"__prefix": "media",
+							"__text": "PAULINE GAUER POUR « LE MONDE »"
+						},
+						"_width": "644",
+						"_height": "322",
+						"_url": "https://img.lemde.fr/2026/03/15/477/0/5719/2859/644/322/60/0/2d5fcad_upload-1-drljzpvkqh8t-paulinegauer-halabja-lemonde-14.jpg",
+						"__prefix": "media"
+					}
+				}
+			]
+		},
+		"_version": "2.0",
+		"_xmlns:atom": "http://www.w3.org/2005/Atom",
+		"_xmlns:media": "http://search.yahoo.com/mrss/",
+		"_xmlns:content": "http://purl.org/rss/1.0/modules/content/"
+	}
+}

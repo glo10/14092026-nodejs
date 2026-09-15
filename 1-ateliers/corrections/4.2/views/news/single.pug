@@ -1,0 +1,15 @@
+extends ../layout
+
+block content
+  header
+    a(href="/news") Retour page news
+  article(class="card")
+    h2= title
+    img(src=enclosure class="card-img-top" alt="article cover image")
+    div(class="card-body")
+      p Auteur : #{credit}
+      p
+        small Date : #{pubDate}
+      div= description
+      footer
+        a(href=link target="_blank") Lien vers l'article

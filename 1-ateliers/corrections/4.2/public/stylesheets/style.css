@@ -1,0 +1,24 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  width: 75%;
+}
+
+a {
+  color: #00B7FF;
+  font-weight: 500;
+}
+
+h2 {
+  text-align: center;
+}
+
+.card-body {
+  text-align: right;
+}
+
+img {
+  width: 50%;
+  display: block;
+  margin: 1rem auto;
+}
