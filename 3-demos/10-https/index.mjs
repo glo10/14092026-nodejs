@@ -2,9 +2,16 @@ import { readFileSync } from "node:fs";
 import { createServer } from "node:https";
 
 /**
- * Certif à générer cf. via un site externe ou la commande openssl depuis un terminal
- * openssl req -newkey rsa:2048 -nodes -keyout mondomaine.key -out mondomaine.csr -subj "/CN=mondomaine.fr"
+ * Certif à générer cf. via un le script node auto-generate-ssl.js ou le site externe ci-dessous ou la commande openssl depuis un terminal
  * @see https://www.devglan.com/online-tools/generate-self-signed-cert
+ * Pour la commande ssl suivez les instructions ci-dessous
+ *    mkdir certifs
+ *    openssl genrsa -out certifs/private.pem 2048
+ *    openssl req -new -key certifs/private.pem -out certifs/server.csr
+ *    Répondez aux questions de la commande suivante ou laissez tout par défaut
+ *        ici en dev la véracité des infos nous importe peu
+ *        par contre en production, il faudra récupérer le vrai certificat associé au nom de domaine du site en production généré par letsencrypt ou un outil similaire
+ *    openssl x509 -req -days 90 -in certifs/server.csr -signkey certifs/private.pem -out certifs/certificate.crt
 */
 const options = {
   key: readFileSync('certifs/private.pem'),
