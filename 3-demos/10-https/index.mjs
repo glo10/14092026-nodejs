@@ -1,5 +1,23 @@
 import { readFileSync } from "node:fs";
 import { createServer } from "node:https";
+import { resolve, join, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
+const currentFilePath = fileURLToPath(import.meta.url) // transformation URL en chemin
+const __dirname = dirname(currentFilePath)
+const rootDir = resolve(__dirname) // Créer un chemin absolu
+const certifsDir = join(rootDir, 'certifs')
+const privateFilename = join(certifsDir, 'private.pem')
+const certificateFilename = join(certifsDir, 'certificate.crt')
+console.log('dossier certifs', privateFilename, certificateFilename);
+
+
+/**
+ * Résolution manuelle 
+ *  Chemin final E:/folder/../../demos/index.mjs (indirect)
+ * Avec resolve()
+ *  E:/demos/index.mjs (direct)
+ */
+const myPath = '../../demos/index.mjs'
 
 /**
  * Certif à générer cf. via un le script node auto-generate-ssl.js ou le site externe ci-dessous ou la commande openssl depuis un terminal
@@ -14,8 +32,8 @@ import { createServer } from "node:https";
  *    openssl x509 -req -days 90 -in certifs/server.csr -signkey certifs/private.pem -out certifs/certificate.crt
 */
 const options = {
-  key: readFileSync('certifs/private.pem'),
-  cert: readFileSync('certifs/certificate.crt')
+  key: readFileSync(privateFilename),
+  cert: readFileSync(certificateFilename)
 }
 
 createServer(options, (req, res) => {
