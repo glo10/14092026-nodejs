@@ -7,11 +7,10 @@
   <body>
     <h1><%= title %></h1>
     <p>Welcome to <%= title %></p>
-    <ul>
-      <% items.forEach(function(item){ %>
-        <li><%= item.name %></li>
-      <% }); %>
-    </ul>
+    <div>
+      <p>Id : <%= item.id %></p>
+      <p>Id : <%= item.name %></p>
+    </div>
     <script src="/javascripts/main.js"></script>
   </body>
 </html>
