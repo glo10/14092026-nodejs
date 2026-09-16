@@ -13,6 +13,6 @@ export default defineConfig({
         'node'
       ]
     ],
-    exclude: ['0-exercices', 'cypress', 'node_modules', 'demo', 'admin', 'tests/0-exercices/corrections/ex9']
+    exclude: ['node_modules']
   }
 })
