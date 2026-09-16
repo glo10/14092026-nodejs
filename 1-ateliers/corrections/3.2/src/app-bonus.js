@@ -1,8 +1,8 @@
 import { createServer } from "node:https";
 import { join } from "node:path";
-import { render } from "./utils/response";
-import { options } from "./utils/ssl";
-import { pagesBonusDir as pages, cssDir, imgDir } from "./utils/folders";
+import { render } from "./utils/response.js";
+import { options } from "./utils/ssl.js";
+import { pagesBonusDir as pages, cssDir, imgDir } from "./utils/folders.js";
 const PORT = 3243
 const app = createServer(options, (req, res) => {
   const imgRgx = /.+\.(jpg|jpeg|png)$/; // les fichiers avec l'extension .jpg, .jpeg, ou .png
