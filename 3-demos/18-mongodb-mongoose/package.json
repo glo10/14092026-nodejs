@@ -1,0 +1,19 @@
+{
+  "name": "18-mongodb-mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "mgd": "node --watch index.js",
+    "mgs": "node --watch mongoose.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongodb": "^7.6.0",
+    "mongoose": "^9.10.1"
+  }
+}
