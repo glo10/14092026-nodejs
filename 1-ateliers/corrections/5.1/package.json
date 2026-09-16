@@ -10,7 +10,7 @@
     "start": "node index.mjs"
   },
   "keywords": [],
-  "author": "Glodie Tshimini",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1"

@@ -120,7 +120,7 @@ export const insertOne = async (req, res) => {
     team += chunk
   })
   req.on('end', async() =>  {
-    team = JSON.parse(team)
+    team = JSON.parse(team) // transformer le JSON envoyé qui est un string en objet JS
     const data = await readFile(filename).then(content => JSON.parse(content))
     team.id = data.teams.length + 1
     data.teams.push(team)
@@ -205,14 +205,14 @@ app.listen(PORT, () => {
     "start": "node index.mjs"
   },
   "keywords": [],
-  "author": "Glodie Tshimini",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.2.1"
   },
   "devDependencies": {
-    "supertest": "^7.1.4",
-    "vitest": "^4.1.0"
+    "supertest": "^7.2.2",
+    "vitest": "^5.0.1"
   }
 }
 

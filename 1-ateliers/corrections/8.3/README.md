@@ -59,7 +59,7 @@ module.exports = defineConfig({
 
 ```
 
-#### `1-ateliers/corrections/8.3/cypress/e2e/0-app/app-4.2.cy.js`
+#### `1-ateliers/corrections/8.3/cypress/e2e/0-app/homepage-4.2.cy.js`
 
 ```javascript
 describe("Testing Homepage workshop 4.2", () => {
@@ -79,7 +79,7 @@ describe("Testing Homepage workshop 4.2", () => {
     });
   });
 
-  describe("Testing GET /news", () => {
+  describe("Testing GET /news from homepage /", () => {
     it("Should click to /news and follow the link", () => {
       cy.get('a[href="/news"]').click();
       cy.get("h1").should("contain.text", "International");
@@ -94,7 +94,7 @@ describe("Testing Homepage workshop 4.2", () => {
 
 ```
 
-#### `1-ateliers/corrections/8.3/cypress/e2e/0-app/news.cy.js`
+#### `1-ateliers/corrections/8.3/cypress/e2e/0-app/news-4.2.cy.js`
 
 ```javascript
 describe('Testing workshop 4.1 GET /news and GET /news/:id', () => {
