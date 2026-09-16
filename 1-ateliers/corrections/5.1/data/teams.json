@@ -1,0 +1,40 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Naples",
+      "country": "Italy"
+    },
+    {
+      "id": 2,
+      "name": "Arsenal",
+      "country": "UK"
+    },
+    {
+      "id": 3,
+      "name": "Paris Saint-Germain",
+      "country": "France"
+    },
+    {
+      "id": 4,
+      "name": "ŠK Slovan Bratislava",
+      "country": "Slovakia"
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "home": 1,
+      "away": 2,
+      "score": "0-1",
+      "date": "2026-09-09"
+    },
+    {
+      "id": 2,
+      "home": 3,
+      "away": 4,
+      "score": "6-1",
+      "date": "2026-09-09"
+    }
+  ]
+}
