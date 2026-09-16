@@ -3,6 +3,8 @@ services:
     image: mongo:8.3.11@sha256:2609aaf7a1abbff404101af896e05f243d22be742471ed857b50b9ce0270fdbd
     container_name: mongodb
     restart: always
+    env_file:
+      - .env
     ports:
       - "${MONGO_DB_PORT}:27017"
     environment:
@@ -14,6 +16,8 @@ services:
     image: mongo-express
     container_name: mongo_ui
     restart: always
+    env_file:
+      - .env
     ports:
       - "8061:8081"
     environment:
