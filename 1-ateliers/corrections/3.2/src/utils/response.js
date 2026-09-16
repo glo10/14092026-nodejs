@@ -3,7 +3,7 @@ import { join } from "node:path";
 import { pipeline } from "node:stream";
 import { promisify } from "node:util";
 import { error } from "node:console";
-import { pages, pagesBonus } from "./folders.js";
+import { pagesDir, pagesBonusDir } from "./folders.js";
 /**
  * Server response
  * @param {string} filename path to HTML file
@@ -11,7 +11,7 @@ import { pages, pagesBonus } from "./folders.js";
  * @param {Object} headers objet HTTP headers
  */
 export const render = (filename, res, headers = {}) => {
-  const pg = /bonus\.mjs/.test(process.argv[1]) ? pagesBonus : pages;
+  const pg = /bonus\.mjs/.test(process.argv[1]) ? pagesBonusDir : pagesDir;
   const PAGE_404 = join(pg, "404.html");
   /**
    * access() permet de vérifier que le fichier existe et ses permissions

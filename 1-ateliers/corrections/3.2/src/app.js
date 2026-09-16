@@ -1,6 +1,6 @@
 import { createServer } from "node:http";
 import { info } from "node:console";
-import { pages as html } from "./utils/folders.js";
+import { pagesDir as html } from "./utils/folders.js";
 import { renderPromise } from "./utils/response.js";
 const PORT = 3200;
 createServer((req, res) => {
