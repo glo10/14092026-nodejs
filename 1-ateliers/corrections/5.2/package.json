@@ -1,7 +1,7 @@
 {
-  "name": "5.1",
+  "name": "5.2",
   "version": "1.0.0",
-  "description": "Champions league API",
+  "description": "Champions league API with middlewares",
   "main": "index.mjs",
   "scripts": {
     "test": "vitest",
@@ -13,10 +13,10 @@
   "author": "Glodie Tshimini",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.1.0"
   },
   "devDependencies": {
-    "supertest": "^7.2.2",
-    "vitest": "^5.0.1"
+    "supertest": "^7.1.4",
+    "vitest": "^4.1.0"
   }
 }

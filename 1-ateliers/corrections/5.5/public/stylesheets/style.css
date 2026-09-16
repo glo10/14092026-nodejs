@@ -1,0 +1,84 @@
+body {
+  padding: 50px;
+  padding-bottom: 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+  left: 0;
+  right: 0;
+  width: 100%;
+  top: 0;
+  z-index: 1;
+  background-color: #fff;
+}
+
+nav a {
+  font-size: 1.15rem;
+}
+
+a {
+  color: #00b7ff;
+  margin: 1rem;
+  display: block;
+  cursor: pointer;
+}
+
+a svg {
+  color: red;
+}
+
+h1 {
+  font-size: 1.65rem;
+}
+
+h2 {
+  font-size: 1.05rem;
+  text-transform: capitalize;
+}
+
+main {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  align-items: end;
+  margin-bottom: 3rem;
+}
+
+.box-single {
+  grid-template-columns: 25% 1fr 25%;
+}
+
+.box-single .card {
+  grid-column-start: 2;
+}
+
+main img {
+  border-radius: 0.5rem;
+  min-width: 250px;
+  max-width: 50%;
+  aspect-ratio:  1/1;
+  box-sizing: content-box;
+}
+
+article {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 1rem;
+}
+
+.card footer {
+  display: flex;
+}
+
+body>footer {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: #fff;
+}

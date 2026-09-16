@@ -1,0 +1,15 @@
+{
+  "name": "8.1",
+  "version": "1.0.0",
+  "description": "Node native testing with TDD approach",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "node:test",
+    "node:assert",
+    "TDD"
+  ],
+  "author": "Glodie Tshimini",
+  "license": "ISC"
+}

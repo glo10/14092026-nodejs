@@ -1,0 +1,15 @@
+{
+  "name": "8.3",
+  "version": "1.0.0",
+  "description": "End to end testing with Cypress",
+  "scripts": {
+    "e2e": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cypress": "^15.12.0"
+  }
+}

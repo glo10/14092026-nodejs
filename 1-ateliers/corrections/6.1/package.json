@@ -1,0 +1,19 @@
+{
+  "name": "6.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm i && npm update && node index.mjs",
+    "dev:w": "node --watch index.mjs",
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.3.1"
+  }
+}

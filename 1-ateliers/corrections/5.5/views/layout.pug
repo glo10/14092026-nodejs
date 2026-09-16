@@ -1,0 +1,20 @@
+doctype html
+html(lang="fr")
+  head
+    title= title
+    block stylesheets
+      link(rel='stylesheet', href='/stylesheets/style.css')
+  body
+    nav
+      block nav
+        a(href="/") Accueil
+        a(href="/users") Utilisateurs
+    block header
+      header
+        h1= title
+    block main 
+    block footer
+      footer
+        p
+          small Copyright Glodie Tshimini 2026 - Tous droits reservés
+

@@ -1,0 +1,17 @@
+article(class="card")
+  h2= item.title
+  img(src=item.cover class="card-img-top" alt="article cover image")
+  div(class="card-body")
+  block card_body
+    p
+      small Type d'utilisateur : #{item.type}
+    p
+      small Administrateur : #{item.site_admin}
+  if !isSingle
+    block card_footer
+      footer
+        a(href=item.link target="__blank") Voir depuis la source
+        if item.link_details
+          a(href=item.link_details) Voir en détails
+  else
+    a(href="/users") Page liste utilisateurs

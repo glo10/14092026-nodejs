@@ -1,0 +1,19 @@
+article(class="card")
+    h2= user.title
+    img(src=user.avatar_url class="card-img-top" alt="article cover image")
+    div(class="card-body")
+        block card_body
+            h3
+                small Nom : #{user.name}
+            p Ville #{user.location}
+            p
+                small iD : #{user.id}
+            p
+                small Entreprise : #{user.company}
+            p
+                small Type : #{user.type}
+            p
+                small Type : #{user.email || 'NC'}
+        block card_footer
+            footer
+                a(href=user.link_details) Voir en détails

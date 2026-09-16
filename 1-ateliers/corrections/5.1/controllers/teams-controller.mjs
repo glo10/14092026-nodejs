@@ -35,7 +35,7 @@ export const insertOne = async (req, res) => {
     team += chunk
   })
   req.on('end', async() =>  {
-    team = JSON.parse(team)
+    team = JSON.parse(team) // transformer le JSON envoyé qui est un string en objet JS
     const data = await readFile(filename).then(content => JSON.parse(content))
     team.id = data.teams.length + 1
     data.teams.push(team)

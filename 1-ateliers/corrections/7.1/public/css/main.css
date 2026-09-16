@@ -1,0 +1,24 @@
+body {
+    margin: 2rem;
+}
+
+#messages {
+    list-style-type: none;
+    padding: 0;
+    margin: 1rem;
+}
+
+#messages li {
+    padding: 0.5rem;
+    margin-bottom: 0.25rem;
+    border-radius: 4px;
+}
+
+#messages li:nth-of-type(even) {
+    background: #fafad2;
+}
+
+#messages li:nth-of-type(odd) {
+    background: #20b2aa;
+    color: #f5deb3;
+}

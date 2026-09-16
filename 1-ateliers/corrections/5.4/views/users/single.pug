@@ -1,0 +1,10 @@
+extends ../layout
+block main
+  main(class="box-single")
+    include ./components/card
+    append card_body 
+        p Blog : #{user.blog}
+        p Gists : #{user.gists}
+        p Followers : #{user.followers}
+        div=user.bio
+        p Date de création #{user.created_at}
